@@ -1,0 +1,7 @@
+.search {
+    width: 100%;
+    min-height: 600px;
+    display: flex;
+    padding-top: 88px; /*Era 68px*/
+    flex-direction: column;
+}
